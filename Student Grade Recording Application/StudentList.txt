@@ -1,0 +1,6 @@
+08-15674|Pelagio|Ryan|DS.|M|90|99|97|96|95
+10-12345|Tenerife|Abby|L.|F|90|90|90|90|90
+10-12356|Asico|Maria|B.|F|60|90|89|80|99
+15-05954|Cremor|Yohan|K.|F|85|85|85|85|85
+20-12345|Dy-Siocco|James|X.|M|50|90|99|87|85
+15-12345|Alijay|Boreno|Z.|F|87|60|99|80|79
